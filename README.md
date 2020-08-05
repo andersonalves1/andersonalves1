@@ -21,7 +21,7 @@ https://www.linkedin.com/in/andersonalvesoficial/
 &nbsp;
 
 ### **Industry Knowledge**
-- Design de experiência do usuário (UX) - Trabalho em projetos
+* Design de experiência do usuário (UX) * Trabalho em projetos
 
 - Capacidade analítica * Metodologias ágeis
 
@@ -82,14 +82,14 @@ Programming Languages
 
 &nbsp;
 
-### **Accomplishments**
+## **Accomplishments**
 
 &nbsp;
 
-## **Courses**
+### **Courses**
 1 - Technician in Production and Web Design - SENAC 2 - HTML5 and CSS3 - Website Creation - SENAC 3 - Wordpress - Management and customization of blogs and dynamic websites - SENAC 4 - Photoshop CC: Images for Web - SENAC 5 - Digital Marketing - Google - IAB Spain 6 - Programming Logic - SENAC 7 - Flash Designer Training - ENG Authorized Adobe 8 - Inglês - South Africa - Cape Studies
 
-## **Languages**
+### **Languages**
 English * Portuguese * Spanish
 ----
 
