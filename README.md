@@ -16,11 +16,37 @@ https://www.linkedin.com/in/andersonalvesoficial/
 
 #### Anhembi Morumbi University 
 - Bachelor of Computer Science
-2019 - 2023
+- 2019 - 2023
 
 ## Licenses & Certifications
 #### Full Stack Node.js
 Rocketseat
+
+#### Git e Github
+Udemy
+
+#### Lógica De Programação
+Senai São Paulo
+
+#### Técnico em Produção e Design para Web
+Senac São Paulo
+#### Credential ID
+01952201990
+
+#### Wordpress - gerenciamento e personalização de blogs e websites dinâmicos
+Senac São Paulo
+
+#### Photoshop CC
+Senac São Paulo
+
+#### HTML5 e CSS3 - Criação de Websites
+Senac São Paulo
+
+#### Marketing Digital - Google
+IAB Spain
+
+#### Inglês - África do Sul
+Cape Studies
 
 ## **Skills & Endorsements**
  
@@ -29,45 +55,44 @@ Rocketseat
 - Design digital
 
 ### **Industry Knowledge**
-- Design de experiência do usuário (UX) * Trabalho em projetos
+- Design de experiência do usuário (UX) - Trabalho em projetos
 
 - Capacidade analítica - Metodologias ágeis
 
 - Web Design Responsivo - Negócios
 
 ### **Tools & Technologies**
-- Node.js - React.js
-- JavaScript - WordPress
-- HTML5 - HTML
-- CSS3 - CSS
-- JSON - Bootstrap
-- Git - GitHub
+- JavaScript - Node.js - React.js
+- React Native - HTML5 - CSS3 
+- JSON - Bootstrap - Git - GitHub
 - Adobe Photoshop - Adobe Premiere
 - Adobe Illustrator - SQLite
-- Windows PowerShell - Adobe Creative Suite
-- PhpMyAdmin
+- Windows PowerShell - PhpMyAdmin
 
 ## **Interpersonal Skills**
 - Trabalho em equipe
 - Trabalho em grupo
 
 ## **Other Skills**
-- Visual Studio Code - React Native
+- Visual Studio Code - Mobile First
 - Express.js - Programação lógica
-- XAMPP - Adobe XD
-- cPanel - Figma
-- WooCommerce - WHM
+- XAMPP - Adobe XD - WooCommerce 
+- cPanel - Figma - WHM
 - Android Studio - Markdown 
 - E-business - Criação de sites
 - Páginas da web - Marvel
-- Desenvolvimento de interface web - Programming Languages
-
+- Desenvolvimento de interface web
+- Programming Languages
 &nbsp;
 
 ## **Accomplishments**
 
-### **Courses**
-1 - Technician in Production and Web Design - SENAC 2 - HTML5 and CSS3 - Website Creation - SENAC 3 - Wordpress - Management and customization of blogs and dynamic websites - SENAC 4 - Photoshop CC: Images for Web - SENAC 5 - Digital Marketing - Google - IAB Spain 6 - Programming Logic - SENAC 7 - Flash Designer Training - ENG Authorized Adobe 8 - Inglês - South Africa - Cape Studies
-
 ### **Languages**
 - English - Portuguese - Spanish
+
+### Volunteer Experience
+#### Instructor
+Cape Studies
+Poverty Alleviation
+Description
+Cape Town - South Africa - Capoeira and Street Dance Classes
