@@ -15,7 +15,12 @@ https://www.linkedin.com/in/andersonalvesoficial/
 ## **Education**
 
 #### Anhembi Morumbi University 
-Bachelor of Computer Science
+- Bachelor of Computer Science
+2019 - 2023
+
+## Licenses & Certifications
+#### Full Stack Node.js
+Rocketseat
 
 ## **Skills & Endorsements**
  
