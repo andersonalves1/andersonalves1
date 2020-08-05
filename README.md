@@ -14,17 +14,16 @@ https://www.linkedin.com/in/andersonalvesoficial/
 
 ### **Skills & Endorsements**
  
-- [Desenvolvimento de front-end]
-- [Web design]
-- [Design digital]
-- [Expo](https://expo.io/)
+- Desenvolvimento de front-end
+- Web design
+- Design digital
 
 &nbsp;
 
-## **Industry Knowledge**
-Design de experiência do usuário (UX)
-Trabalho em projetos
-Capacidade analítica
+### **Industry Knowledge**
+- Design de experiência do usuário (UX) - Trabalho em projetos
+
+- Capacidade analítica
 Metodologias ágeis
 Web Design Responsivo
 Negócios
