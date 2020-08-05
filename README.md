@@ -12,7 +12,7 @@ Sempre estou buscando conhecimento e ferramentas, para ajudar da melhor forma no
 ## **💻 LinkedIn**
 https://www.linkedin.com/in/andersonalvesoficial/
 
-### **Skills & Endorsements**
+## **Skills & Endorsements**
  
 - Desenvolvimento de front-end
 - Web design
@@ -23,14 +23,13 @@ https://www.linkedin.com/in/andersonalvesoficial/
 ### **Industry Knowledge**
 - Design de experiência do usuário (UX) - Trabalho em projetos
 
-- Capacidade analítica
-Metodologias ágeis
+- Capacidade analítica * Metodologias ágeis
+
 Web Design Responsivo
 Negócios
 Experiência do usuário
 
-### 
-- **Tools & Technologies**
+### **Tools & Technologies**
 Node.js
 React.js
 JavaScript
@@ -55,11 +54,11 @@ Adobe Creative Suite
 PhpMyAdmin
 CSS3
 
-- **Interpersonal Skills**
-Trabalho em equipe
-Trabalho em grupo
+## **Interpersonal Skills**
+- Trabalho em equipe
+- Trabalho em grupo
 
-- **Other Skills**
+## **Other Skills**
 Visual Studio Code
 React Native
 Express.js
@@ -83,8 +82,15 @@ Programming Languages
 
 &nbsp;
 
+### **Accomplishments**
 
+&nbsp;
+
+## **Courses**
+1 - Technician in Production and Web Design - SENAC 2 - HTML5 and CSS3 - Website Creation - SENAC 3 - Wordpress - Management and customization of blogs and dynamic websites - SENAC 4 - Photoshop CC: Images for Web - SENAC 5 - Digital Marketing - Google - IAB Spain 6 - Programming Logic - SENAC 7 - Flash Designer Training - ENG Authorized Adobe 8 - Inglês - South Africa - Cape Studies
+
+## **Languages**
+English * Portuguese * Spanish
 ----
 
-## License 📝
-<a href="http://badges.mit-license.org" rel="nofollow"><img src="https://camo.githubusercontent.com/107590fac8cbd65071396bb4d04040f76cde5bde/687474703a2f2f696d672e736869656c64732e696f2f3a6c6963656e73652d6d69742d626c75652e7376673f7374796c653d666c61742d737175617265" alt="License" data-canonical-src="http://img.shields.io/:license-mit-blue.svg?style=flat-square" style="max-width:100%;"></a>
+
