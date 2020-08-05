@@ -26,55 +26,32 @@ https://www.linkedin.com/in/andersonalvesoficial/
 - Web Design Responsivo - Negócios
 
 ### **Tools & Technologies**
-Node.js
-React.js
-JavaScript
-WordPress
-See 1 endorsement for WordPress1
-HTML5
-See 2 endorsements for HTML52
-HTML
-CSS
-See 1 endorsement for CSS1
-JSON
-Bootstrap
-Git
-GitHub
-Adobe Photoshop
-Adobe Premiere
-See 1 endorsement for Adobe Premiere1
-Adobe Illustrator
-SQLite
-Windows PowerShell
-Adobe Creative Suite
-PhpMyAdmin
-CSS3
+- Node.js - React.js
+- JavaScript - WordPress
+- HTML5 - HTML
+- CSS3 - CSS
+- JSON - Bootstrap
+- Git - GitHub
+- Adobe Photoshop - Adobe Premiere
+- Adobe Illustrator - SQLite
+- Windows PowerShell - Adobe Creative Suite
+- PhpMyAdmin
 
 ## **Interpersonal Skills**
 - Trabalho em equipe
 - Trabalho em grupo
 
 ## **Other Skills**
-Visual Studio Code
-React Native
-Express.js
-Programação lógica
-See 1 endorsement for Programação lógica1
-XAMPP
-Adobe XD
-cPanel
-Figma
-WooCommerce
-WHM
-Android Studio
-Markdown
-E-business
-Criação de sites
-Páginas da web
-Marvel
-Workbench
-Desenvolvimento de interface web
-Programming Languages
+- Visual Studio Code - React Native
+- Express.js - Programação lógica
+- XAMPP - Adobe XD
+- cPanel - Figma
+- WooCommerce - WHM
+- Android Studio - Markdown 
+- E-business - Criação de sites
+- Páginas da web - Marvel
+- Workbench - Desenvolvimento de interface web
+- Programming Languages
 
 &nbsp;
 
@@ -84,4 +61,4 @@ Programming Languages
 1 - Technician in Production and Web Design - SENAC 2 - HTML5 and CSS3 - Website Creation - SENAC 3 - Wordpress - Management and customization of blogs and dynamic websites - SENAC 4 - Photoshop CC: Images for Web - SENAC 5 - Digital Marketing - Google - IAB Spain 6 - Programming Logic - SENAC 7 - Flash Designer Training - ENG Authorized Adobe 8 - Inglês - South Africa - Cape Studies
 
 ### **Languages**
-Inglês - South Africa - Cape Studies
+- English - Portuguese - Spanish
