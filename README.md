@@ -1,16 +1,21 @@
 # andersonalves1
  
-**Olá, meu nome é Anderson Alves**, sou desenvolvedor web e business man na Yoopih. Estou cursando Ciência da Computação, mas tenho formação Técnica em Produção e Design para Web, e cursos que incluem Full Stack Node.js, Git e GitHub, HTML5, CSS3, Wordpress, cPanel, WHM, Photoshop, Premier e Lógica de Programação. 
+**Hello, my name is Anderson Alves**, web developer and business man at Yoopih. I am studying Computer Science, but I have Technical Training in Production and Web Design, and courses that include Stack Node.js, Git and GitHub, HTML5, CSS3, Wordpress, cPanel , WHM, Photoshop, Premier and Programming Logic.
 
-Tive vivência no exterior, na África do Sul e Singapura, que ajudou a aprender inglês e poder me comunicar bem no idioma. Também fui Atleta Profissional de Futebol alguns anos, e isso me ensinou muito a trabalhar em equipe. 
+I had experience abroad, in South Africa and Singapore, that helped me to learn English and to be able to communicate well in the language. I was also a Professional Soccer Athlete for a few years, and it taught me a lot to work as a team.
 
-Meu objetivo é prestar serviço de qualidade, atingir soluções de forma colaborativa, agregando valor aos parceiros e clientes. Nos meus 10 anos de experiência, trabalhei prestando serviços em empresas de pequeno, médio e grande porte. 
+My goal is to provide quality service, achieve solutions collaboratively, adding value to partners and customers. In my 10 years of experience, I worked providing services in small, medium and large companies.
 
-Sempre estou buscando conhecimento e ferramentas, para ajudar da melhor forma nos trabalhos que estou envolvido, que faço com inspiração e motivação.
+I am always looking for knowledge and tools to help in the best way in the work I am involved in, which I do with inspiration and motivation. 
 
 
 ## **💻 LinkedIn**
 https://www.linkedin.com/in/andersonalvesoficial/
+
+## **Education**
+
+#### Anhembi Morumbi University 
+Bachelor of Computer Science
 
 ## **Skills & Endorsements**
  
@@ -50,8 +55,7 @@ https://www.linkedin.com/in/andersonalvesoficial/
 - Android Studio - Markdown 
 - E-business - Criação de sites
 - Páginas da web - Marvel
-- Workbench - Desenvolvimento de interface web
-- Programming Languages
+- Desenvolvimento de interface web - Programming Languages
 
 &nbsp;
 
@@ -61,4 +65,4 @@ https://www.linkedin.com/in/andersonalvesoficial/
 1 - Technician in Production and Web Design - SENAC 2 - HTML5 and CSS3 - Website Creation - SENAC 3 - Wordpress - Management and customization of blogs and dynamic websites - SENAC 4 - Photoshop CC: Images for Web - SENAC 5 - Digital Marketing - Google - IAB Spain 6 - Programming Logic - SENAC 7 - Flash Designer Training - ENG Authorized Adobe 8 - Inglês - South Africa - Cape Studies
 
 ### **Languages**
-- 🇬🇧 English - Portuguese - Spanish
+- English - Portuguese - Spanish
