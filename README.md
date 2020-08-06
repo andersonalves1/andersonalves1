@@ -87,16 +87,17 @@ https://www.linkedin.com/in/andersonalvesoficial/
 - Windows PowerShell
 - Visual Studio Code 
 - Figma
+- Marvel
+- Adobe XD 
+- Markdown
+- Android Studio 
 - Programação lógica
 - XAMPP 
-- Adobe XD 
 - WooCommerce 
 - cPanel  
 - WHM
-- Android Studio 
-- Markdown 
 - E-business 
-- Marvel
+
 &nbsp;
 
 ## **Accomplishments**
