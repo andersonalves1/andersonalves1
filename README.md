@@ -20,32 +20,32 @@ https://www.linkedin.com/in/andersonalvesoficial/
 
 ## Licenses & Certifications
 #### Full Stack Node.js
-Rocketseat
+- Rocketseat
 
 #### Git e Github
-Udemy
+- Udemy
 
 #### Lógica De Programação
-Senai São Paulo
+- Senai São Paulo
 
 #### Técnico em Produção e Design para Web
-Senac São Paulo
+- Senac São Paulo
 #### Credential ID
-01952201990
+- 01952201990
 
 #### Wordpress - gerenciamento e personalização de blogs e websites dinâmicos
-Senac São Paulo
+- Senac São Paulo
 
 #### Photoshop CC
-Senac São Paulo
+- Senac São Paulo
 
 #### HTML5 e CSS3 - Criação de Websites
-Senac São Paulo
+- Senac São Paulo
 
 #### Marketing Digital - Google
-IAB Spain
+- IAB Spain
 
-#### Inglês - África do Sul
+#### Inglês - África do Sul- 
 Cape Studies
 
 ## **Skills & Endorsements**
@@ -55,34 +55,48 @@ Cape Studies
 - Design digital
 
 ### **Industry Knowledge**
-- Design de experiência do usuário (UX) - Trabalho em projetos
-
-- Capacidade analítica - Metodologias ágeis
-
-- Web Design Responsivo - Negócios
+- Design de experiência do usuário (UX) 
+- Trabalho em projetos
+- Capacidade analítica 
+- Metodologias ágeis 
+- Negócios
 
 ### **Tools & Technologies**
-- JavaScript - Node.js - React.js
-- React Native - HTML5 - CSS3 
-- JSON - Bootstrap - Git - GitHub
-- Adobe Photoshop - Adobe Premiere
-- Adobe Illustrator - SQLite
-- Windows PowerShell - PhpMyAdmin
-
+- JavaScript 
+- HTML5 
+- CSS3 
+- React
+- React Native 
+- Node.js
+- Express.js 
+- SQLite
+- JSON 
+- PhpMyAdmin
+- Bootstrap 
+- Git - GitHub
+- Adobe Photoshop 
+- Adobe Premiere
+- Adobe Illustrator 
+ 
 ## **Interpersonal Skills**
 - Trabalho em equipe
 - Trabalho em grupo
 
 ## **Other Skills**
-- Visual Studio Code - Mobile First
-- Express.js - Programação lógica
-- XAMPP - Adobe XD - WooCommerce 
-- cPanel - Figma - WHM
-- Android Studio - Markdown 
-- E-business - Criação de sites
-- Páginas da web - Marvel
-- Desenvolvimento de interface web
-- Programming Languages
+- Mobile First
+- Windows PowerShell
+- Visual Studio Code 
+- Figma
+- Programação lógica
+- XAMPP 
+- Adobe XD 
+- WooCommerce 
+- cPanel  
+- WHM
+- Android Studio 
+- Markdown 
+- E-business 
+- Marvel
 &nbsp;
 
 ## **Accomplishments**
