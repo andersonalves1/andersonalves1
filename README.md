@@ -46,7 +46,7 @@ https://www.linkedin.com/in/andersonalvesoficial/
 - IAB Spain
 
 #### Inglês - África do Sul- 
-Cape Studies
+- Cape Studies
 
 ## **Skills & Endorsements**
  
