@@ -4,7 +4,7 @@
 
 I had experience abroad, in South Africa and Singapore, that helped me to learn English and to be able to communicate well in the language. I was also a Professional Soccer Athlete for a few years, and it taught me a lot to work as a team.
 
-My goal is to provide quality service, achieve solutions collaboratively, adding value to partners and customers. In my 10 years of experience, I worked providing services in small, medium and large companies.
+My goal is to provide quality service, achieve solutions collaboratively, adding value to partners and customers. In my 4 years of experience, I worked providing services in small, medium and large companies.
 
 I am always looking for knowledge and tools to help in the best way in the work I am involved in, which I do with inspiration and motivation. 
 
