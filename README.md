@@ -77,7 +77,7 @@ https://www.linkedin.com/in/andersonalvesoficial/
 - JavaScript
 - TypeScript
 - Bootstrap
-- Prototipagem
+- Prototyping
 - React.js
 - React Native
 - Node.js
