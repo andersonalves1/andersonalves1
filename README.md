@@ -1,10 +1,10 @@
 # andersonalves1
  
-**Hello, my name is Anderson Alves**, web developer and business man at Yoopih. I am studying Computer Science, but I have Technical Training in Production and Web Design, and courses that include Stack Node.js, Git and GitHub, HTML5, CSS3, Wordpress, cPanel , WHM, Photoshop, Premier and Programming Logic.
+**Hello, my name is Anderson Alves**, web developer and business man at Yoopih. I am studying Computer Science, but I have Technical Training in Production and Web Design, and courses that include Full Stack Web and Mobile (Node.js, React e React Native), , HTML5, CSS3, Git and GitHub, Kotlin, UI/UX Skills, Photoshop, Figma, Wordpress, Scrum and Programming Logic.
 
-I had experience abroad, in South Africa and Singapore, that helped me to learn English and to be able to communicate well in the language. I was also a Professional Soccer Athlete for a few years, and it taught me a lot to work as a team.
+I had experience abroad in South Africa, Singapore and Venezuela, where it helped me learn to communicate well in English and Spanish. I was also a Professional Soccer Athlete for a few years, and it taught me a lot to work as a team.
 
-My goal is to provide quality service, achieve solutions collaboratively, adding value to partners and customers. In my 4 years of experience, I worked providing services in small, medium and large companies.
+My goal is to provide quality service, achieve solutions collaboratively, adding value to partners and customers. In my 4 years of experience, I worked providing services in small and medium companies.
 
 I am always looking for knowledge and tools to help in the best way in the work I am involved in, which I do with inspiration and motivation. 
 
@@ -16,87 +16,97 @@ https://www.linkedin.com/in/andersonalvesoficial/
 
 #### Anhembi Morumbi University 
 - Bachelor of Computer Science
-- 2019 - 2023
+- 2019 - 2022
 
 ## Licenses & Certifications
-#### Full Stack Node.js
+#### Scrum Fundamentals Certified
+- SCRUMstudy - Accreditation Body for Scrum and Agile
+
+#### Figma - Interfaces and prototype
+- Cursae
+
+#### UI/UX Basics Experience & Prototype
+- Facebook
+
+#### BOOTCAMP - Full Stack Web & Mobile
 - Rocketseat
 
-#### Git e Github
+#### Git and Github
 - Udemy
 
-#### Lógica De Programação
+#### Programming Logic
 - Senai São Paulo
 
-#### Técnico em Produção e Design para Web
+#### Production and Web Design Technician
 - Senac São Paulo
 #### Credential ID
 - 01952201990
 
-#### Wordpress - gerenciamento e personalização de blogs e websites dinâmicos
+#### Wordpress
 - Senac São Paulo
 
 #### Photoshop CC
 - Senac São Paulo
 
-#### HTML5 e CSS3 - Criação de Websites
+#### HTML5 and CSS3
 - Senac São Paulo
 
-#### Marketing Digital - Google
+#### Digital Marketing - Google
 - IAB Spain
 
-#### Inglês - África do Sul- 
+#### English - South Africa
 - Cape Studies
 
 ## **Skills & Endorsements**
- 
-- Desenvolvimento de front-end
-- Web design
-- Design digital
+- Computer science
+- Front-end development
+- Mobile application development
 
 ### **Industry Knowledge**
-- Design de experiência do usuário (UX) 
-- Trabalho em projetos
-- Capacidade analítica 
-- Metodologias ágeis 
-- Negócios
+- User experience (UX)
+- Android Development
+- Agile methodologies
+- Test-driven development
+- Business
+- Scrum
 
 ### **Tools & Technologies**
-- JavaScript 
-- HTML5 
-- CSS3 
-- React
-- React Native 
+- Linux
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Bootstrap
+- Prototipagem
+- React.js
+- React Native
 - Node.js
-- Express.js 
-- SQLite
-- JSON 
-- PhpMyAdmin
-- Bootstrap 
-- Git - GitHub
-- Adobe Photoshop 
-- Adobe Premiere
-- Adobe Illustrator 
- 
+- JSON
+- Express.js
+- Next.js
+- Redux
+- SASS
+- REST
+- SQL
+- PostgreSQL
+- GraphQL
+- Jest
+- Git-Github
+
 ## **Interpersonal Skills**
-- Trabalho em equipe
-- Trabalho em grupo
+- Team work
+- Customer support
 
 ## **Other Skills**
+- Wordpress
+- WooCommerce
 - Mobile First
-- Windows PowerShell
-- Visual Studio Code 
 - Figma
-- Marvel
 - Adobe XD 
-- Markdown
-- Android Studio 
 - Programação lógica
-- XAMPP 
-- WooCommerce 
-- cPanel  
-- WHM
-- E-business 
+- Visual Studio Code 
+- Markdown
+- ElasticSearch
 
 &nbsp;
 
